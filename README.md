@@ -15,7 +15,7 @@
 <h2>Tools</h2>
 <ul>
   <li>
-    <p>Python</p>
+    <p>Python (Pandas, Numpy, Matplotlib, Seaborn, Skit-learn, Tensorflow)</p>
   </li>
   <li>
     <p>Database</p>
