@@ -11,10 +11,8 @@
     <p>Data scientist</p>
   </li>
 </ul>
-<p>Expected to be an AI Engineer</p>
-<p>Computer Vision Engineer && Data scientist</p>
 <hr>
-
+<h2>Tools</h2>
 <!--
 **YousifHisham-tech/YousifHisham-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
