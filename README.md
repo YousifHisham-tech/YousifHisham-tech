@@ -28,6 +28,7 @@
   </li>
 </ul>
 <hr>
+
 <h2>Other tools</h2>
 <ul>
   <li>
@@ -37,7 +38,7 @@
     <p>CSS</p>
   </li>
   <li>
-    <p>Javascript</p>p>
+    <p>Javascript</p>
   </li>
   <li>
     <p>Bootstrap</p>
