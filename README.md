@@ -6,8 +6,8 @@ Passionate about building intelligent systems using **Machine Learning, Deep Lea
 Focused on transforming data into real-world AI solutions and deploying production-ready applications.
 
 Student ==> **Computers and Artificial Intelligence Benha university**.
-Major   ==> **Artifcial Intelligence (AI)**
-CGPA     ==> **3.14**
+Major   ==> **Artifcial Intelligence (AI)**.
+CGPA     ==> **3.14**.
 ---
 
 ## 🚀 Tech Stack
