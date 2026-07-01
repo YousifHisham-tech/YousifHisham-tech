@@ -1,57 +1,79 @@
+<div align="center">
+
 # 👋 Hi, I'm Yousif Hisham
 
-### AI Engineer | Computer Vision Engineer | Data Scientist
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1200&center=true&vCenter=true&width=850&lines=AI+Engineer;Computer+Vision+Engineer;Data+Scientist;Building+Real-world+AI+Solutions" />
 
-Passionate about building intelligent systems using **Machine Learning, Deep Learning, and Computer Vision**.
-Focused on transforming data into real-world AI solutions and deploying production-ready applications.
+### 🚀 Turning Data into Intelligent Systems
 
-Student ==> **Computers and Artificial Intelligence Benha university**.<br>
-Major   ==> **Artifcial Intelligence (AI)**.<br>
-CGPA     ==> **3.14**.
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍🎓 About Me
 
-### 🧠 AI & Data Science
+🎓 Student at **Faculty of Computers & Artificial Intelligence — Benha University**
+🧠 Major: **Artificial Intelligence (AI)**
+📈 CGPA: **3.14**
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* TensorFlow
+💡 Passionate about building intelligent systems using **Machine Learning, Deep Learning, and Computer Vision**.
 
-### 🗄️ Databases
-
-* SQL Server
-* Oracle
-
-### 📊 Data Analytics
-
-* Power BI
+Focused on transforming ideas into **real-world AI applications** and deploying **production-ready solutions**.
 
 ---
 
-## 💻 Additional Technologies
+## 🛠️ Tech Stack
 
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-* C++
-* C#
-* PHP (Native)
+<div align="center">
+
+### AI & Data Science
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+
+Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • TensorFlow
+
+### Databases & Analytics
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+SQL Server • Oracle • Power BI
+
+### Additional Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,cs,php"/>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME"/>
+
+</div>
 
 ---
 
 ## 🔭 Currently Working On
 
-* Computer Vision Projects
-* Deep Learning Models
-* AI Deployment & APIs
-* End-to-End ML Pipelines
+* 🖼️ Computer Vision Projects
+* 🤖 Deep Learning Models
+* ⚡ AI Deployment & FastAPI APIs
+* 🔄 End-to-End ML Pipelines
 
 ---
 
@@ -63,13 +85,22 @@ CGPA     ==> **3.14**.
 
 ---
 
-## 📌 Interests
+<details>
+
+<summary>📌 Interests</summary>
 
 * Computer Vision
 * Image Processing
 * Data Science
 * Artificial Intelligence
+* Real-world AI Solutions
+
+</details>
 
 ---
 
-⭐ Explore my repositories and follow my journey in AI & Data Science.
+<div align="center">
+
+### ⭐ Explore my repositories and follow my AI journey
+
+</div>
