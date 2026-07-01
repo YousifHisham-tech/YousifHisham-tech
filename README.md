@@ -1,5 +1,16 @@
 ## Hi there 👋
 <h1>Yousif Hisham</h1>
+<ul>
+  <li>
+    <p>Expected to be an AI Engineer</p>
+  </li>
+  <li>
+    <p>Computer vision engineer</p>
+  </li>
+  <li>
+    <p>Data scientist</p>
+  </li>
+</ul>
 <p>Expected to be an AI Engineer</p>
 <p>Computer Vision Engineer && Data scientist</p>
 <hr>
