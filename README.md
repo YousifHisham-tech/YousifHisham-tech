@@ -12,7 +12,7 @@
   </li>
 </ul>
 <hr>
-<h2>Tools</h2>
+<h2>Main Tools</h2>
 <ul>
   <li>
     <p>Python (Pandas, Numpy, Matplotlib, Seaborn, Skit-learn, Tensorflow)</p>
@@ -26,6 +26,32 @@
   <li>
     <p>Power BI</p>
   </li>
+</ul>
+<hr>
+<h2>Other tools</h2>
+<ul>
+  <li>
+    <p>HTML</p>
+  </li>
+  <li>
+    <p>CSS</p>
+  </li>
+  <li>
+    <p>Javascript</p>p>
+  </li>
+  <li>
+    <p>Bootstrap</p>
+  </li>
+  <li>
+    <p>C++</p>
+  </li>
+  <li>
+    <p>C#</p>
+  </li>
+  <li>
+    <p>PHP Native</p>
+  </li>
+  
 </ul>
 <!--
 **YousifHisham-tech/YousifHisham-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
