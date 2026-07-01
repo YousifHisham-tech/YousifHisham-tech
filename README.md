@@ -13,6 +13,20 @@
 </ul>
 <hr>
 <h2>Tools</h2>
+<ul>
+  <li>
+    <p>Python</p>
+  </li>
+  <li>
+    <p>Database</p>
+  </li>
+  <li>
+    <p>SQL Server || Orcale</p>
+  </li>
+  <li>
+    <p>Power BI</p>
+  </li>
+</ul>
 <!--
 **YousifHisham-tech/YousifHisham-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
