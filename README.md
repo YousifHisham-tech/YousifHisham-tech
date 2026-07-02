@@ -80,8 +80,7 @@ SQL Server • Oracle • Power BI
 ## 🌱 Currently Learning
 
 * Advanced Deep Learning
-* MLOps
-* Production AI Systems
+* Analysis the market
 
 ---
 
@@ -94,6 +93,7 @@ SQL Server • Oracle • Power BI
 * Data Science
 * Artificial Intelligence
 * Real-world AI Solutions
+* Meta-heuristic algorithms to solve complex problems
 
 </details>
 
