@@ -13,6 +13,7 @@
 ## 👨‍🎓 About Me
 
 🎓 Student at **Faculty of Computers & Artificial Intelligence — Benha University**.
+
 🧠 Major: **Artificial Intelligence (AI)**
 📈 CGPA: **3.14**
 
