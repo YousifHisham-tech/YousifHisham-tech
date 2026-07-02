@@ -81,6 +81,8 @@ SQL Server • Oracle • Power BI
 
 * Advanced Deep Learning
 * Analysis the market
+* How to become a data engineer
+* Adavnced computer vision
 
 ---
 
