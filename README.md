@@ -16,6 +16,7 @@
 🧠 Major: **Artificial Intelligence (AI)**
 📈 CGPA: **3.14**
 
+🔍 Seeking for an internship as a Machine learning engineer or computer vision.
 💡 Passionate about building intelligent systems using **Machine Learning, Deep Learning, and Computer Vision**.
 
 Focused on transforming ideas into **real-world AI applications** and deploying **production-ready solutions**.
