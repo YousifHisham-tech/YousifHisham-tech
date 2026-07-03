@@ -91,7 +91,9 @@ SQL Server • Oracle • Power BI
 
 <details>
 
-## <summary>📌 Interests</summary>
+ <summary>
+   📌 Interests
+ </summary>
 
 * Computer Vision
 * Image Processing
